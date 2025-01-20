@@ -63,7 +63,7 @@ body{
     font-size: 3.7rem;
     font-weight: bold;
     color: var(--main-color);
-    /* display: none;  */
+    display: none; 
 }
 section{
     min-height: 100vh;
@@ -76,7 +76,7 @@ section{
     justify-content: center;
     gap: 6rem;
     /* margin-top: 3rem; */
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 .home-content{
     width: 50%;
